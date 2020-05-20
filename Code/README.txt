@@ -17,9 +17,6 @@ Dataset: FER2013
 Dataset link: https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
 Note: Dataset will be downloaded in CSV form. To convert data into images, execute read_data_execute_once.py once before running main_program.py of the project.
 
-Models:
-Model folder contains 4 trained models. To use trained model, use load_model fuction from Utils.py
-
 Code:
 main_program.py : Driver program
 cnn_models.py : cnn model definitions
